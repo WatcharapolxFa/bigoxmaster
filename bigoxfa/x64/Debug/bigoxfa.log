@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\007xfa\bigoxfa\bigoxfa\Source.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\007xfa\bigoxfa\bigoxfa\Source.cpp(49,47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  bigoxfa.vcxproj -> C:\Users\007xfa\bigoxfa\x64\Debug\bigoxfa.exe
